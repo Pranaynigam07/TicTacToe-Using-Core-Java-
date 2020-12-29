@@ -1,0 +1,50 @@
+//Output or user interactive console using Core Java
+run:
+Enter the first player name
+Git
+Enter the second player name
+Hub
+A	B	C	
+D	E	F	
+G	H	I	
+Git Chance
+Enter x position
+A
+X	B	C	
+D	E	F	
+G	H	I	
+Hub Chance
+Enter y position
+e
+X	B	C	
+D	O	F	
+G	H	I	
+Git Chance
+Enter x position
+d
+X	B	C	
+X	O	F	
+G	H	I	
+Hub Chance
+Enter y position
+g
+X	B	C	
+X	O	F	
+O	H	I	
+Git Chance
+Enter x position
+c
+X	B	X	
+X	O	F	
+O	H	I	
+Hub Chance
+Enter y position
+h
+X	B	X	
+X	O	F	
+O	O	I	
+Git Chance
+Enter x position
+b
+Git won!!!!!!!
+BUILD SUCCESSFUL (total time: 1 minute 31 seconds)
